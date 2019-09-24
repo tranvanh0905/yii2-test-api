@@ -1,6 +1,6 @@
 <?php
 
-namespace api\modules\v2\controllers;
+namespace vietanh\apiv2\controllers;
 
 use yii\web\Controller;
 
